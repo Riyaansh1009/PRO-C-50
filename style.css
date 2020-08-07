@@ -1,0 +1,22 @@
+h1 {
+    color: #a91bc5;
+}
+* {
+    border: solid;
+}
+.header{
+    background-color: #e71313;
+    display:flex
+}
+.menu{
+    display: flex;
+  margin-left: auto;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    display: flex;
+}
